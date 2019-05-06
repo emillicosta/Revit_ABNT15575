@@ -1,0 +1,8 @@
+C:\Users\emill\source\repos\luminotecnico\luminotecnico\bin\Debug\luminotecnico.dll
+C:\Users\emill\source\repos\luminotecnico\luminotecnico\bin\Debug\luminotecnico.pdb
+C:\Users\emill\source\repos\luminotecnico\luminotecnico\obj\Debug\luminotecnico.csprojAssemblyReference.cache
+C:\Users\emill\source\repos\luminotecnico\luminotecnico\obj\Debug\luminotecnico.csproj.CoreCompileInputs.cache
+C:\Users\emill\source\repos\luminotecnico\luminotecnico\obj\Debug\luminotecnico.dll
+C:\Users\emill\source\repos\luminotecnico\luminotecnico\obj\Debug\luminotecnico.pdb
+C:\Users\emill\source\repos\luminotecnico\luminotecnico\obj\Debug\Forms.Luminotecnico.resources
+C:\Users\emill\source\repos\luminotecnico\luminotecnico\obj\Debug\luminotecnico.csproj.GenerateResource.cache
